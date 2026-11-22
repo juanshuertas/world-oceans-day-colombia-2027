@@ -25,6 +25,7 @@ while IFS= read -r issue; do
     *Patrocinios*|*Free\ Press*) agent="patrocinios-pr" ;;
     *Cartagena\ Polo*) agent="produccion-cartagena" ;;
     *Certificación\ Blue*) agent="blue-standard" ;;
+    *Control*|*Integridad*|*Reconciliar*) agent="grants-finanzas" ;;
     *Integración*|*Documento*|*Drive*) agent="integracion-documental" ;;
     *) agent="coordinacion-general" ;;
   esac
