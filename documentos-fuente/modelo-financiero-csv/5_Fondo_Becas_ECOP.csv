@@ -1,0 +1,9 @@
+﻿FONDO POST-EVENTO «BECAS Y MICRO-GRANTS OCÉANO COLOMBIA 2027» ($280.000.000 COP),,,,,,
+"Co-Administrado por ECOP Colombia, MAUA — Mesa Ambiental Uniandina y el Comité Científico Interuniversitario",,,,,,
+,,,,,,
+"ESTRUCTURA DE SUBVENCIONES, BECAS DE MOVILIDAD Y LABORATORIOS JUVENILES COSTEROS",,,,,,
+Línea del Fondo Juvenil,Cupos,Monto Unitario (COP),Monto Unitario (USD),Inversión Total (COP),Inversión Total (USD),Criterios de Adjudicación y Entregable
+1. Micro-Grants de Ciencia y Acción Comunitaria,10,12000000,=C6/'1_Dashboard_Ejecutivo'!$B$5,=B6*C6,=E6/'1_Dashboard_Ejecutivo'!$B$5,"Proyectos de 6 meses liderados por jóvenes colombianos (18–30 años) en IA oceánica, restauración coralina/manglar o economía circular."
+2. Becas de Movilidad Científica Internacional (SCAR 2028 / NYC),4,25000000,=C7/'1_Dashboard_Ejecutivo'!$B$5,=B7*C7,=E7/'1_Dashboard_Ejecutivo'!$B$5,"Tiquetes, inscripción y manutención para que los mejores ponentes jóvenes presenten en SCAR 2028 (Sofía, Bulgaria) o Peace Boat US (NYC)."
+3. Laboratorios Juveniles Costeros de IA e Impresión 3D,6,10000000,=C8/'1_Dashboard_Ejecutivo'!$B$5,=B8*C8,=E8/'1_Dashboard_Ejecutivo'!$B$5,"Dotación de impresora 3D, extrusora Polyformer/Recreator 3D y kits de sensores costeros en Cartagena, Santa Marta, San Andrés, Barranquilla, Buenaventura y Tumaco."
+TOTAL FONDO POST-EVENTO ECOP COLOMBIA 2027,=SUM(B6:B8),—,—,=SUM(E6:E8),=SUM(F6:F8),100% Adjudicado por Comité de Revisión por Pares (ECOP + MAUA + Universidades)

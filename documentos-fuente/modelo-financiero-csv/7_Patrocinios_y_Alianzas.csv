@@ -1,0 +1,19 @@
+﻿"ECOSISTEMA DE PATROCINIOS CORPORATIVOS, BANCA AZUL Y MOVILIDAD CERO EMISIONES",,,,,,
+"Estructura de Paquetes Comerciales ($560.000.000 COP) y Alianzas Estratégicas (BBVA Tarjeta Coral, BMW, Tesla, LATAM, Corona, NatGeo)",,,,,,
+,,,,,,
+1. PAQUETES DE PATROCINIO CORPORATIVO (META EFECTIVO / MIXTO = $560.000.000 COP),,,,,,
+Categoría de Patrocinio,Cupos Objetivo,Inversión Unitaria (COP),Total Categoría (COP),Total Categoría (USD),Marcas Objetivo Prioritarias,Contraprestaciones Clave y Retorno ESG
+Title Partner («Presentado por»),1,280000000,=B6*C6,=D6/'1_Dashboard_Ejecutivo'!$B$5,BBVA Colombia (Tarjeta Coral) / Grupo Empresarial,"Naming rights globales del evento y Polo Cup, 2 VIP Beach Cabanas, pasarela oficial de pagos, branding escenario solar y reporte ESG auditado."
+Diamond Partner,1,160000000,=B7*C7,=D7/'1_Dashboard_Ejecutivo'!$B$5,BMW Autogermana / Tesla Colombia,"Flota oficial cero emisiones, suministro energía solar escenario, naming pabellón tecnológico/granja coralina y 1 VIP Beach Cabana."
+Platinum Partner,1,75000000,=B8*C8,=D8/'1_Dashboard_Ejecutivo'!$B$5,Corona / Isla Corona / Banca Azul,"Anfitrionía expedición ecológica dominical en Isla Corona, zonas libres de plástico en playa y 6 pases VIP."
+Gold / Blue Supporter,1,45000000,=B9*C9,=D9/'1_Dashboard_Ejecutivo'!$B$5,Aliados Sector Náutico / Asegurador / Telecom,"Stand sostenible en Cartagena, vinculación directa a nodo de limpieza 4Ocean o laboratorio 3D juvenil y 3 pases VIP."
+TOTAL PATROCINIOS CORPORATIVOS EN EFECTIVO,=SUM(B6:B9),—,=SUM(D6:D9),=SUM(E6:E9),100% Alineado con Presupuesto,Sincronizado con Fila I.3 + I.4 de Presupuesto Integral
+,,,,,,
+"2. MATRIZ DE ALIADOS ESTRATÉGICOS DE OPERACIÓN, EXPLORACIÓN Y MOVILIDAD",,,,,,
+Aliado Estratégico,Tipo de Alianza,Producto / Activo Vinculado,Modalidad de Aporte,Impacto Operativo Directo,Estado Gestión,Carta / Instrumento
+LATAM Airlines,Aerolínea Oficial,Programa Avión Solidario,Especie (Tiquetes y Carga),"Transporte sin costo de investigadores internacionales, líderes comunitarios de San Andrés/Pacífico y equipos.",Propuesta Lista,Dossier Aéreo
+National Geographic Society,Aliado Ciencia y Exploración,Pristine Seas + NG Explorers,Co-Financiación + Talento,"Panel magistral 30x30 en Colombia, mentoría a jóvenes ECOP y co-financiación de investigación.",Carta Lista,Carta N.º 10
+4Ocean Foundation,Aliado Limpieza Marina,Operación Bicoastal + Manillas,Operación Conjunta,Limpieza auditada en 6 nodos costeros + 2 inmersiones submarinas y manillas recicladas VIP.,Carta Lista,Carta N.º 10
+Oceanic Global,Certificador Global,Blue Standard (3 Estrellas),Auditoría y Sello,Certifica la primera cumbre oceánica mundial libre de plásticos de un solo uso + Playbook.,En Proceso,Estándar OMC
+BBVA Colombia,Banca Azul Oficial,"Tarjeta Coral Mastercard (0,66%)",Patrocinio + Pasarela,Pasarela oficial de pagos/donaciones y co-financiación directa de granjas de corales y manglares.,Carta Lista,Carta N.º 09
+BMW & Tesla Colombia,Movilidad Cero Emisiones,Flota BMW i + Tesla Powerwall,Patrocinio + Flota/Energía,Traslado diplomático 100% eléctrico y suministro de energía solar limpia para el concierto.,Carta Lista,Carta N.º 09

@@ -1,0 +1,24 @@
+﻿UNIT ECONOMICS Y P&L: CARTAGENA YACHT & BEACH POLO CUP + CONCIERTO SOLAR OCEAN SOUND SUNSET,,,,,
+Modelo de Sostenibilidad Financiera del Fin de Semana de Cierre en Cartagena (19–20 de Junio de 2027) — 100% Energía Solar,,,,,
+,,,,,
+1. P&L CONCIERTO BENÉFICO URBANO «OCEAN SOUND & POLO SUNSET» (SÁBADO 19 JUNIO),,,,,
+Concepto / Línea de Ingreso o Costo,Cantidad / Unidades,Tarifa Unitaria (COP),Total (COP),Total (USD),Observación Operativa
+Ingreso: Boletería General (Preventa y Taquilla),3200,135000,=B6*C6,=D6/'1_Dashboard_Ejecutivo'!$B$5,Pasarela oficial con descuento especial Tarjeta Coral BBVA.
+Ingreso: Palcos Solares VIP (10 pax c/u),24,8500000,=B7*C7,=D7/'1_Dashboard_Ejecutivo'!$B$5,Incluye manillas certificadas 4Ocean y servicio libre de plástico.
+Ingreso: Activaciones de Barra y Concesiones Sostenibles,1,82000000,=B8*C8,=D8/'1_Dashboard_Ejecutivo'!$B$5,Envases retornables / aluminio reciclable (Blue Standard).
+TOTAL INGRESOS BRUTOS CONCIERTO SOLAR,—,—,=SUM(D6:D8),=SUM(E6:E8),100% trazable mediante boletería digital.
+Costo: Talento Artístico Urbano y Caribeño,1,150000000,=B10*C10,=D10/'1_Dashboard_Ejecutivo'!$B$5,Artistas principales + DJs internacionales.
+Costo: Producción Escenario Solar (Tesla Powerwall/Megapack),1,85000000,=B11*C11,=D11/'1_Dashboard_Ejecutivo'!$B$5,Cero generadores diésel; energía 100% solar limpia.
+"Costo: Seguridad, Logística, Salud y Permisos",1,45000000,=B12*C12,=D12/'1_Dashboard_Ejecutivo'!$B$5,Control de acceso y plan de contingencia distrital.
+TOTAL COSTOS DE PRODUCCIÓN CONCIERTO,—,—,=SUM(D10:D12),=SUM(E10:E12),Estructura de costos optimizada.
+EXCEDENTE NETO CONCIERTO «OCEAN SOUND SUNSET»,—,—,=D9-D13,=E9-E13,Superávit neto (+$438M COP) destinado a Granjas y Becas ECOP.
+,,,,,
+2. P&L CARTAGENA YACHT & BEACH POLO CUP + SUBASTA SILENCIOSA,,,,,
+Concepto / Línea de Ingreso o Costo,Cantidad / Unidades,Tarifa Unitaria (COP),Total (COP),Total (USD),Observación Operativa
+Ingreso: VIP Beach Cabanas (Frente a Cancha Arena),12,10000000,=B18*C18,=D18/'1_Dashboard_Ejecutivo'!$B$5,Castillogrande / Manzanillo con traslado en tender desde marinas.
+Ingreso: Inscripción Yates en Marinas Anfitrionas,19,2000000,=B19*C19,=D19/'1_Dashboard_Ejecutivo'!$B$5,Marina Todomar Bocagrande y Marina Santa Cruz (Manga).
+Ingreso: Subasta Silenciosa de Arte Oceánico,1,40000000,=B20*C20,=D20/'1_Dashboard_Ejecutivo'!$B$5,Obras del Circuito Nacional de Arte & Moda Sostenible.
+TOTAL INGRESOS DIRECTOS POLO CUP Y SUBASTA,—,—,=SUM(D18:D20),=SUM(E18:E20),Complementado por patrocinios corporativos ($560M COP).
+Costo: Producción Integral Cartagena Yacht & Beach Polo Cup,1,310000000,=B22*C22,=D22/'1_Dashboard_Ejecutivo'!$B$5,"Cancha arena, bienestar equino, cabanas VIP y logística náutica."
+BALANCE OPERATIVO DIRECTO POLO CUP (ANTES DE PATROCINIOS),—,—,=D21-D22,=E21-E22,Cubierto holgadamente por los patrocinios corporativos.
+SUPERÁVIT CONSOLIDADO FIN DE SEMANA (CONCIERTO + POLO DIRECTO),—,—,=D14+D23,=E14+E23,Aporte neto directo del fin de semana al fondo de conservación.

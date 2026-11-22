@@ -1,0 +1,13 @@
+﻿"GOBERNANZA UNIVERSITARIA, APORTES EN ESPECIE Y MAUA COMO SOCIO ORGANIZADOR",,,,,,,
+"Matriz de Compromisos, Ventanas Temporales, Valoración en Especie ($74,5M COP / $0 Efectivo Girado) y Estado de MOU",,,,,,,
+,,,,,,,
+"MATRIZ DE INSTITUCIONES ACADÉMICAS, NAVALES Y SOCIO ORGANIZADOR JUVENIL",,,,,,,
+Institución / Colectivo,Rol en el Encuentro,Sede y Ciudad,Efectivo Girado,Aporte en Especie (COP),Equivalente USD,Estado Acuerdo (MOU),Entregables Críticos y Contraprestación
+Universidad Militar Nueva Granada (UMNG - FARIES),Institución Anfitriona Central,Bogotá D.C.,0,17500000,=E6/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 01),"Aula Máxima (8 jun), sonido, streaming institucional, enlace investigación antártica/IA y 2–3 ponentes."
+Universidad de los Andes (Sede Cartagena + CODS),Institución Anfitriona Caribe,Cartagena / Bogotá,0,13500000,=E7/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 03),"Auditorio Sede Caribe (10 jun), soporte AV, difusión en red CODS y 2–3 investigadores locales."
+Escuela Naval de Cadetes 'Almirante Padilla' (ENAP),Sector Naval y Academia,"Isla Manzanillo, Cartagena",0,9500000,=E8/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 04),"1.ª Estación salida de campo (11 jun), acceso a simuladores navales, 2 oficiales ponentes y apoyo cadetes."
+Universidad del Norte (Uninorte),Nodo Caribe Oriental,Barranquilla,0,9000000,=E9/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 06),"Simposio ingeniería costera/transición portuaria (9 jun), convocatoria ECOP Caribe y delegación a Cartagena."
+MAUA — Mesa Ambiental Uniandina,Socio Organizador Juvenil,Bogotá D.C. / Cartagena,0,8500000,=E10/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 02),"Co-organización juvenil, Hackatón Universitario Azul, auditoría Blue Standard / Punto Verde y co-gestión Becas ECOP."
+Universidad Jorge Tadeo Lozano (UJTL),Institución Científica Marina,Santa Marta / Bogotá,0,8500000,=E11/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 06),Sesión Biología Marina (microplásticos en krill/Antártida) y laboratorio móvil protocolo NOAA/OSPAR en playas.
+Escuela Superior de Guerra (ESDEG) & CCO,Defensa y Oceanopolítica,Bogotá D.C.,0,8000000,=E12/'1_Dashboard_Ejecutivo'!$B$5,Carta Lista (Carta 05),Co-liderazgo Panel Central Oceanopolítica (8 jun) y réplica académica salida de campo del Diplomado.
+TOTAL APORTES EN ESPECIE UNIVERSITARIOS + MAUA,7 Actores Articulados,Red Nacional,=SUM(D6:D12),=SUM(E6:E12),=SUM(F6:F12),MOU Multipartito,100% Aporte en Especie ($0 giro de efectivo universitario)

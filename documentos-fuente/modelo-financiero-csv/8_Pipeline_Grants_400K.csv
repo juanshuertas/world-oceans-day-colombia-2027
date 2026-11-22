@@ -1,0 +1,18 @@
+﻿PIPELINE DE GRANTS INTERNACIONALES PARA PROGRAMA ANTÁRTICO (PAC) Y CAPITAL SEMILLA ($400.000 USD),,,,,,,,
+"12 Convocatorias Activas (2026–2027) con Valoración en USD/COP, Probabilidad de Éxito y Valor Esperado Ponderado",,,,,,,,
+,,,,,,,,
+PORTAFOLIO DE FINANCIACIÓN NO REEMBOLSABLE (CIENCIA ANTÁRTICA + CAPITAL SEMILLA INMEDIATO),,,,,,,,
+ID,Categoría,Fondo / Convocatoria,Monto Objetivo (USD),Equivalente (COP),Prob. Éxito,Valor Esperado (USD),Ventana / Cierre,Estado y Destino en el Proyecto
+G-01,Ciencia Antártica / PAC,SCAR Fellowships (Polar Initiative — Príncipe Alberto II),15000,=D6*'1_Dashboard_Ejecutivo'!$B$5,0.35,=D6*F6,Prep Feb 2027 / Cierre Sep,Listo para Postular · Pasantía teledetección polar e IA.
+G-02,Ciencia Antártica / PAC,COMNAP Antarctic Research Fellowship,15000,=D7*'1_Dashboard_Ejecutivo'!$B$5,0.3,=D7*F7,Abril – Junio 2027,En Preparación · Tecnología operativa aplicada al PAC.
+G-03,Ciencia Antártica / PAC,IAATO Antarctic Fellowship,15000,=D8*'1_Dashboard_Ejecutivo'!$B$5,0.35,=D8*F8,Abril – Junio 2027,En Preparación · Estudio presión tráfico marítimo y turismo Antártida.
+G-04,Ciencia Antártica / PAC,National Geographic Society (NG-LEX Southern Ocean),20000,=D9*'1_Dashboard_Ejecutivo'!$B$5,0.4,=D9*F9,Ciclos Trimestrales 2026–27,Dossier Completo · Validación satelital AIS a bordo buque expedición.
+G-05,Ciencia Antártica / PAC,Fundación Príncipe Alberto II — The Polar Initiative,50000,=D10*'1_Dashboard_Ejecutivo'!$B$5,0.25,=D10*F10,Apertura Q1 2027,En Estructuración · Alianza institucional polar y gobernanza oceánica.
+G-06,Ciencia Antártica / PAC,MinCiencias / Sistema General de Regalías / CCO,60000,=D11*'1_Dashboard_Ejecutivo'!$B$5,0.45,=D11*F11,Convocatorias PAC 2027,Articulación UMNG/CCO · Co-financiación nacional expedición antártica.
+G-07,Capital Semilla Evento,Programa de Pequeñas Donaciones GEF (PPD — PNUD Colombia),50000,=D12*'1_Dashboard_Ejecutivo'!$B$5,0.5,=D12*F12,Convocatoria Activa Colombia,"Prioridad Alta · Granjas corales, manglares y plantas reciclaje 3D."
+G-08,Capital Semilla Evento,Waitt Foundation — Rapid Ocean Conservation (ROC) Grant,20000,=D13*'1_Dashboard_Ejecutivo'!$B$5,0.45,=D13*F13,Aprobación Continua (3–4 sem),Arranque Inmediato · Capital semilla rápido comunicación y ciencia.
+G-09,Capital Semilla Evento,Rufford Small Grants (1st / 2nd Rufford Grant),15000,=D14*'1_Dashboard_Ejecutivo'!$B$5,0.5,=D14*F14,Abierto Todo el Año,Arranque Inmediato · Conservación arrecifes y reducción plásticos.
+G-10,Capital Semilla Evento,National Geographic Society — Common Waters / Climate Pledge,50000,=D15*'1_Dashboard_Ejecutivo'!$B$5,0.3,=D15*F15,Ventanas 2026–2027,En Formulación · Liderazgo juvenil costero y mitigación plásticos.
+G-11,Capital Semilla Evento,Fundación Príncipe Alberto II — Blue Charter / ReOcean,40000,=D16*'1_Dashboard_Ejecutivo'!$B$5,0.3,=D16*F16,Ronda II 2026–2027,En Formulación · Escalamiento manufactura 3D Precious Plastic/Polyformer.
+G-12,Capital Semilla Evento,Katapult Ocean / Blue Bio Value (Aceleración Azul),50000,=D17*'1_Dashboard_Ejecutivo'!$B$5,0.25,=D17*F17,Cohortes Primavera 2027,En Formulación · Unidad productiva de filamento y mobiliario marino 3D.
+TOTAL,PIPELINE COMPLETO,12 Convocatorias Internacionales y Nacionales,=SUM(D6:D17),=SUM(E6:E17),=G18/D18,=SUM(G6:G17),2026 – 2027,"Valor esperado ponderado ($152.750 USD / ~$641,5M COP) supera meta presupuestal ($130M COP)."

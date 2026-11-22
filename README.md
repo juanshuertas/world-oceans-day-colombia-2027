@@ -106,6 +106,11 @@ Aliados corporativos previstos:
 
 ## Navegación
 
+- [Documento Maestro integrado](documentos-fuente/DOCUMENTO_MAESTRO_EXTRAIDO.md)
+- [Modelo financiero fuente](documentos-fuente/Modelo_Financiero_Maestro_World_Oceans_Day_Colombia_2027-1.xlsx)
+- [Resumen integrado financiero](documentos-fuente/RESUMEN_INTEGRADO.md)
+- [Exportación CSV del modelo financiero](documentos-fuente/modelo-financiero-csv/)
+
 - [00-estado-y-diplomacia](00-estado-y-diplomacia/README.md)
 - [01-universidades-y-maua](01-universidades-y-maua/README.md)
 - [02-ciencia-scar-y-visita-naval](02-ciencia-scar-y-visita-naval/README.md)

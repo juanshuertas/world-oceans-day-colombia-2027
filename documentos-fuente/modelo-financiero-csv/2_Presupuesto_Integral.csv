@@ -1,0 +1,46 @@
+﻿PRESUPUESTO INTEGRAL DETALLADO — EGRESOS E INGRESOS (COP / USD),,,,,,
+"Desglose Granular por Rubro, Subtotales Formulados, Equivalencia en Dólares y Control de Equilibrio ($0 Déficit)",,,,,,
+,,,,,,
+SECCIÓN A: PRESUPUESTO DE EGRESOS E INVERSIÓN DE IMPACTO,,,,,,
+Código,Pilar / Línea Presupuestal Detallada,Descripción Técnica y Entregables,Monto (COP),Monto (USD),% Presupuesto,Responsable / Nodo
+1.1,Granjas de Corales a 12 Meses (2.500 fragmentos),"Estructuras Reef Stars / módulos 3D, siembra y 12 meses de buceo y fotogrametría en Varadero/Rosario y San Andrés.",145000000,=D6/'1_Dashboard_Ejecutivo'!$B$5,=D6/$D$33,Corales de Paz / RREEFS
+1.2,Granjas de Manglares a 12 Meses (15.000 plántulas),"Viveros comunitarios, apertura canales hidrológicos y 12 meses de monitoreo carbono azul en Ciénaga de la Virgen y Tumaco.",115000000,=D7/'1_Dashboard_Ejecutivo'!$B$5,=D7/$D$33,Comunidades / MinAmbiente
+SUB-1,SUBTOTAL PILAR 1: GRANJAS DE CORALES Y MANGLARES (12 MESES),Financiación continua garantizada por 1 año completo (Jun 2027 – May 2028).,=SUM(D6:D7),=D8/'1_Dashboard_Ejecutivo'!$B$5,=D8/$D$33,100% Auditado
+2.1,Micro-Grants Comunitarios y Ciencia Juvenil (10 cupos),10 subvenciones semilla de $12.000.000 COP c/u para jóvenes investigadores y líderes costeros.,120000000,=D9/'1_Dashboard_Ejecutivo'!$B$5,=D9/$D$33,ECOP Colombia + MAUA
+2.2,Becas Movilidad Internacional SCAR 2028 / Peace Boat NYC (4 cupos),4 becas completas de $25.000.000 COP c/u para ponentes jóvenes colombianos en Sofía (Bulgaria) y Nueva York.,100000000,=D10/'1_Dashboard_Ejecutivo'!$B$5,=D10/$D$33,Comité Científico + ECOP
+2.3,Dotación 6 Laboratorios Juveniles Costeros de IA e Impresión 3D,"6 kits completos de $10.000.000 COP c/u (impresora 3D, extrusora Polyformer y sensores costeros).",60000000,=D11/'1_Dashboard_Ejecutivo'!$B$5,=D11/$D$33,Nodos Costeros + ECOP
+SUB-2,SUBTOTAL PILAR 2: FONDO POST-EVENTO BECAS Y LABS ECOP,20 becas y subvenciones adjudicadas por revisión por pares.,=SUM(D9:D11),=D12/'1_Dashboard_Ejecutivo'!$B$5,=D12/$D$33,20 Beneficiarios
+3.1,Infraestructura Cancha Arena y Bienestar Equino (Beach Polo),"Nivelación de arena (90x45 m) en Castillogrande/Manzanillo, caballerizas climatizadas, veterinarios y jueces.",145000000,=D13/'1_Dashboard_Ejecutivo'!$B$5,=D13/$D$33,Dirección Deportiva Polo
+3.2,VIP Beach Cabanas y Hospitalidad Náutica,"Montaje de 12 VIP Beach Cabanas libres de plástico, mobiliario sostenible y atención a armadores.",105000000,=D14/'1_Dashboard_Ejecutivo'!$B$5,=D14/$D$33,Producción Cartagena
+3.3,"Logística Marinas, Tenders y Seguridad Marítima","Coordinación con Marina Todomar, Marina Santa Cruz, embarcaciones tender y apoyo Guardacostas/DIMAR.",60000000,=D15/'1_Dashboard_Ejecutivo'!$B$5,=D15/$D$33,Operaciones Náuticas
+SUB-3,SUBTOTAL PILAR 3: CARTAGENA YACHT & BEACH POLO CUP,Torneo internacional ecuestre-náutico en Cartagena.,=SUM(D13:D15),=D16/'1_Dashboard_Ejecutivo'!$B$5,=D16/$D$33,Cartagena de Indias
+4.1,Talento Artístico Urbano y Caribeño (Headliners + DJs),"Contratación de artistas principales, rider técnico y riders sostenibles sin plástico.",150000000,=D17/'1_Dashboard_Ejecutivo'!$B$5,=D17/$D$33,Dirección Artística
+4.2,"Escenario Solar (Tesla Powerwall/Megapack), Sonido e Iluminación",Producción técnica 100% libre de plantas diésel alimentada con almacenamiento solar.,85000000,=D18/'1_Dashboard_Ejecutivo'!$B$5,=D18/$D$33,Tesla + Producción Técnica
+4.3,"Seguridad, Logística de Boletería, Paramédicos y Permisos","Control de acceso digital, brigadas de salud, cerramientos y permisos distritales.",45000000,=D19/'1_Dashboard_Ejecutivo'!$B$5,=D19/$D$33,Operaciones Concierto
+SUB-4,SUBTOTAL PILAR 4: CONCIERTO BENÉFICO SOLAR OCEAN SOUND SUNSET,Genera excedente neto de +$438M COP para conservación.,=SUM(D17:D19),=D20/'1_Dashboard_Ejecutivo'!$B$5,=D20/$D$33,Sábado 19 Jun 2027
+5.1,Gran Limpieza Bicoastal Certificada 4Ocean (6 Nodos + Buceo),"Logística terrestre y submarina en Cartagena, Santa Marta, San Andrés, Barranquilla, Buenaventura y Tumaco.",105000000,=D21/'1_Dashboard_Ejecutivo'!$B$5,=D21/$D$33,4Ocean + MAUA + UJTL
+5.2,Operación Nodos Regionales y Cumbre Académica/Naval,"Apoyo logístico en Bogotá (UMNG/ESDEG), Barranquilla (Uninorte), Cartagena (Uniandes/ENAP/DIMAR/COTECMAR).",60000000,=D22/'1_Dashboard_Ejecutivo'!$B$5,=D22/$D$33,7 Nodos Territoriales
+SUB-5,SUBTOTAL PILAR 5: OPERACIÓN 4OCEAN Y NODOS TERRITORIALES,Despliegue nacional multicéntrico en 7 ciudades.,=SUM(D21:D22),=D23/'1_Dashboard_Ejecutivo'!$B$5,=D23/$D$33,Nacional
+6.1,Circuito Nacional de Arte y Moda Sostenible (6 Ciudades),"Pasarelas circulares (redes recicladas Econyl), exposiciones en vivo y subasta silenciosa en gala.",110000000,=D24/'1_Dashboard_Ejecutivo'!$B$5,=D24/$D$33,Curaduría Cultural + MAUA
+SUB-6,SUBTOTAL PILAR 6: CIRCUITO DE ARTE Y MODA SOSTENIBLE,"Bogotá, Cartagena, Medellín, Cali, Barranquilla y San Andrés.",=SUM(D24:D24),=D25/'1_Dashboard_Ejecutivo'!$B$5,=D25/$D$33,6 Sedes Culturales
+7.1,Auditoría Global Blue Standard (3 Estrellas) y Playbook,"Verificación Oceanic Global en todas las sedes, estaciones hidratación, menaje reutilizable y Blue Summit Playbook.",75000000,=D26/'1_Dashboard_Ejecutivo'!$B$5,=D26/$D$33,Oceanic Global + MAUA
+SUB-7,SUBTOTAL PILAR 7: CERTIFICACIÓN GLOBAL BLUE STANDARD,Primera cumbre oceánica mundial certificada.,=SUM(D26:D26),=D27/'1_Dashboard_Ejecutivo'!$B$5,=D27/$D$33,Estándar OMC/UNCTAD
+8.1,Movilidad Ponentes Internacionales y Líderes Comunitarios,Tiquetes complementarios (articulados con LATAM Avión Solidario) y alojamiento delegados.,52000000,=D28/'1_Dashboard_Ejecutivo'!$B$5,=D28/$D$33,LATAM + Secretaría Técnica
+8.2,"Producción Documental 4K, Streaming y Prensa Internacional","Registro audiovisual multicámara, streaming académico y coordinación free press (Colombia, EAU, Ámsterdam).",44000000,=D29/'1_Dashboard_Ejecutivo'!$B$5,=D29/$D$33,Advance PR + Audiovisual
+SUB-8,"SUBTOTAL PILAR 8: MOVILIDAD, DOCUMENTAL Y PRENSA",Visibilidad nacional e internacional.,=SUM(D28:D29),=D30/'1_Dashboard_Ejecutivo'!$B$5,=D30/$D$33,Alcance Global
+9.1,"Coordinación General (8 Meses), Pólizas y Contingencias","Gerencia operativa integral, seguros de responsabilidad civil marítima/ecuestre y reserva técnica.",80000000,=D31/'1_Dashboard_Ejecutivo'!$B$5,=D31/$D$33,Origen de Paz E.U.
+SUB-9,"SUBTOTAL PILAR 9: GERENCIA, PÓLIZAS Y CONTINGENCIAS",Blindaje jurídico y operativo del evento.,=SUM(D31:D31),=D32/'1_Dashboard_Ejecutivo'!$B$5,=D32/$D$33,Gobernanza
+TOT-EG,TOTAL PRESUPUESTO INTEGRAL DE EGRESOS E INVERSIÓN,100% Cubierto (Adicional: $74.500.000 COP en especie universitaria),=D8+D12+D16+D20+D23+D25+D27+D30+D32,=D33/'1_Dashboard_Ejecutivo'!$B$5,=D33/D33,Equilibrio Total
+,,,,,,
+SECCIÓN B: ESTRUCTURA DE INGRESOS Y FUENTES DE FINANCIACIÓN,,,,,,
+Código,Fuente de Ingresos,Mecanismo de Captación y Trazabilidad,Monto (COP),Monto (USD),% Ingresos,Estado de Gestión
+I.1,Taquilla General Concierto Solar Ocean Sound Sunset,3.200 entradas generales @ $135.000 COP promedio vía pasarela Tarjeta Coral BBVA.,432000000,=D37/'1_Dashboard_Ejecutivo'!$B$5,=D37/$D$45,En Estructuración
+I.2,Palcos Solares VIP y Activaciones de Barra Concierto,24 palcos solares VIP @ $8.500.000 COP + concesiones de bebidas sin plástico ($82M).,286000000,=D38/'1_Dashboard_Ejecutivo'!$B$5,=D38/$D$45,En Estructuración
+I.3,Patrocinio Title Partner («Presentado por» — 1 cupo),Naming rights globales del evento y la Polo Cup (Banca Azul / Movilidad / Energía).,280000000,=D39/'1_Dashboard_Ejecutivo'!$B$5,=D39/$D$45,Propuesta Lista
+I.4,"Patrocinios Diamond, Platinum y Gold (Corporativos)","BBVA Tarjeta Coral, BMW Autogermana, Tesla Colombia, Corona/Isla Corona y aliados.",280000000,=D40/'1_Dashboard_Ejecutivo'!$B$5,=D40/$D$45,Propuesta Lista
+I.5,VIP Beach Cabanas y Registro de Yates en Marinas,12 VIP Beach Cabanas @ $10.000.000 COP + inscripción de 18 yates en Marinas Todomar/Santa Cruz ($38M).,158000000,=D41/'1_Dashboard_Ejecutivo'!$B$5,=D41/$D$45,En Estructuración
+I.6,Subasta Silenciosa de Arte Oceánico y Moda Circular,Obras curadas del Circuito Nacional de Arte & Moda subastadas en la gala VIP de Cartagena.,40000000,=D42/'1_Dashboard_Ejecutivo'!$B$5,=D42/$D$45,Curaduría Activa
+I.7,Grants Internacionales Ejecutables en 2027,"Co-financiación National Geographic Society, Waitt ROC Grant y PPD-GEF/PNUD.",130000000,=D43/'1_Dashboard_Ejecutivo'!$B$5,=D43/$D$45,Pipeline $400k USD
+I.8,Stands Antiferia Sostenible y Marcas Circulares,25 stands curados de emprendimientos azules y startups universitarias (Bogotá y Cartagena).,50000000,=D44/'1_Dashboard_Ejecutivo'!$B$5,=D44/$D$45,Convocatoria Abierta
+TOT-IN,TOTAL INGRESOS PROYECTADOS,Más $74.500.000 COP en especie universitaria (no monetizada aquí),=SUM(D37:D44),=D45/'1_Dashboard_Ejecutivo'!$B$5,=D45/D45,100% CUBIERTO
+BAL,BALANCE PRESUPUESTAL NETO (INGRESOS - EGRESOS),Verificación automática de equilibrio financiero ($0 déficit),=D45-D33,=D46/'1_Dashboard_Ejecutivo'!$B$5,=D46/D33,EQUILIBRADO

@@ -1,0 +1,37 @@
+﻿WORLD OCEANS DAY & MONTH COLOMBIA 2027 — DASHBOARD FINANCIERO MAESTRO,,,,,,
+"Arquitectura Financiera Integral, Impacto a 12 Meses, Fondo Juvenil ECOP y Pipeline de Grants Internacionales (TRM Ref: $4.200 COP/USD)",,,,,,
+,,,,,,
+PARÁMETROS GLOBALES DEL MODELO,,,,,,
+Tasa de Cambio Referencia (TRM COP/USD):,4200,,Sedes Territoriales Activas:,7,Universidades + MAUA Aliados:,7
+,,,,,,
+1. RESUMEN EJECUTIVO DE INDICADORES FINANCIEROS Y DE IMPACTO (CONECTADO DINÁMICAMENTE),,,,,,
+Indicador Estratégico / Componente,Referencia Hoja,Valor en COP,Equivalente USD,% / Ratio,Estado / Cobertura,Notas de Auditoría y Gobernanza
+Presupuesto Integral Efectivo (Total Egresos),2_Presupuesto_Integral,='2_Presupuesto_Integral'!D33,=C9/$B$5,=C9/C10,100% EQUILIBRADO,"Cubre los 7 nodos, Polo Cup, Concierto Solar, 4Ocean, Granjas y Becas."
+Total Ingresos Proyectados (Fuentes Diversificadas),2_Presupuesto_Integral,='2_Presupuesto_Integral'!D45,=C10/$B$5,=C10/C9,100% FINANCIADO,"Taquilla concierto, patrocinios corporativos, cabanas VIP, grants y stands."
+Balance Neto / Déficit Presupuestal,2_Presupuesto_Integral,=C10-C9,=C11/$B$5,=C11/C9,$0 DÉFICIT,Equilibrio financiero estricto sin exposición de deuda.
+Aportes en Especie Universidades + MAUA,3_Universidades_y_MAUA,='3_Universidades_y_MAUA'!E13,=C12/$B$5,=C12/C13,$0 GIRO EFECTIVO,"6 universidades (UMNG, Uniandes, ENAP, ESDEG, UJTL, Uninorte) + MAUA."
+Valor Económico Total Movilizado (Efectivo + Especie),Consolidado Maestro,=C9+C12,=C13/$B$5,1,IMPACTO INTEGRAL,Suma del presupuesto operativo en efectivo más capacidad instalada universitaria.
+Inversión Granjas Corales y Manglares (12 Meses),4_Granjas_Corales_Manglares,='4_Granjas_Corales_Manglares'!D12,=C14/$B$5,=C14/C9,12 MESES AUDITADOS,2.500 corales ($145M) + 15.000 mangles ($115M) con pago a pescadores locales.
+Fondo Post-Evento Becas y Micro-Grants (ECOP + MAUA),5_Fondo_Becas_ECOP,='5_Fondo_Becas_ECOP'!E9,=C15/$B$5,=C15/C9,20 CUPOS JUVENILES,"10 micro-grants, 4 becas SCAR 2028/NYC y 6 labs costeros de IA e impresión 3D."
+Excedente Neto Fin de Semana Cartagena (Polo + Concierto),6_Polo_Cup_y_Concierto_ROI,='6_Polo_Cup_y_Concierto_ROI'!D24,=C16/$B$5,='6_Polo_Cup_y_Concierto_ROI'!D24/'6_Polo_Cup_y_Concierto_ROI'!D13,SUPERÁVIT POSITIVO,Subsidia directamente las granjas marinas a 12 meses y el Fondo de Becas ECOP.
+Pipeline Total Grants Internacionales y Antárticos,8_Pipeline_Grants_400K,='8_Pipeline_Grants_400K'!E18,='8_Pipeline_Grants_400K'!D18,='8_Pipeline_Grants_400K'!G18/'8_Pipeline_Grants_400K'!D18,12 CONVOCATORIAS,$175.000 USD Ciencia Antártica/PAC + $225.000 USD Capital Semilla.
+,,,,,,
+2. MODELADO DE ESCENARIOS FINANCIEROS (ANÁLISIS DE SENSIBILIDAD OPERATIVA),,,,,,
+Escenario Operativo,Factor Escala,Ingresos Totales (COP),Egresos Operativos (COP),Excedente / Balance (COP),Equivalente USD,Configuración de Ejecución
+Escenario 1: Conservador (Académico + Naval + Nodos Básicos),0.75,=C10*B21,=C9*B21,=C21-D21,=C21/$B$5,"Ejecución completa semana académica/naval, 4Ocean y granjas base sin expansión VIP."
+Escenario 2: Base Maestro (Plan Integral Equilibrado 2027),1,=C10*B22,=C9*B22,=C22-D22,=C22/$B$5,"Ejecución completa de los 16 capítulos: 7 nodos, Polo Cup, Concierto Solar, Granjas 12m y Becas ECOP."
+Escenario 3: Ambicioso (Sobre-suscripción Patrocinios + Grants),1.25,=C10*B23,=C9*1.10,=C23-D23,=C23/$B$5,Ampliación del Fondo Juvenil ECOP a 35 becas y duplicación de granjas coralinas en San Andrés y Pacífico.
+,,,,,,
+,,,,,,
+3. DISTRIBUCIÓN POR PILAR ESTRATÉGICO (DATOS CONSOLIDADOS PARA VISUALIZACIÓN),,,,,,
+Pilar de Inversión / Gasto,Inversión (COP),Inversión (USD),% Participación,Fuente Principal de Fondeo,Responsable Técnico,Certificación
+1. Granjas Corales y Manglares (12 Meses),='2_Presupuesto_Integral'!D8,=B28/$B$5,=B28/$B$37,Tarjeta Coral BBVA + Concierto Solar,Corales de Paz / UJTL / Comunidades,Blue Standard
+2. Fondo Post-Evento Becas y Labs ECOP,='2_Presupuesto_Integral'!D12,=B29/$B$5,=B29/$B$37,Excedente Polo Cup + NatGeo,ECOP Colombia + MAUA Uniandes,3 Estrellas
+3. Cartagena Yacht & Beach Polo Cup,='2_Presupuesto_Integral'!D16,=B30/$B$5,=B30/$B$37,VIP Cabanas + Yates + Patrocinios,Origen de Paz + Marinas CTG,3 Estrellas
+4. Concierto Solar Ocean Sound Sunset,='2_Presupuesto_Integral'!D20,=B31/$B$5,=B31/$B$37,Taquilla + Palcos + Tesla Solar,Producción Técnica + Tesla,Cero Diésel
+5. Operación Bicoastal 4Ocean y 7 Nodos,='2_Presupuesto_Integral'!D23,=B32/$B$5,=B32/$B$37,Patrocinios + Grants Semilla,4Ocean + MAUA + Universidades,NOAA / OSPAR
+6. Circuito Arte y Moda Sostenible (6 Sedes),='2_Presupuesto_Integral'!D25,=B33/$B$5,=B33/$B$37,Subasta Silenciosa + Stands,Curaduría Terrafest + MAUA,Economía Circular
+7. Certificación Blue Standard y Playbook,='2_Presupuesto_Integral'!D27,=B34/$B$5,=B34/$B$37,Patrocinios Corporativos,Oceanic Global + MAUA,OMC Standards
+"8. Movilidad Ponentes, Documental 4K y PR",='2_Presupuesto_Integral'!D30,=B35/$B$5,=B35/$B$37,LATAM Avión Solidario + Advance PR,Comité Científico + Prensa,Alcance Global
+"9. Coordinación General, Pólizas y Reserva",='2_Presupuesto_Integral'!D32,=B36/$B$5,=B36/$B$37,Patrocinios Generales,Origen de Paz E.U.,Auditado
+TOTAL INVERSIÓN POR PILARES,=SUM(B28:B36),=SUM(C28:C36),=SUM(D28:D36),100% Financiado sin Déficit,Gobernanza Multipartita,Certificado

@@ -1,0 +1,12 @@
+﻿GRANJAS DE CORALES Y MANGLARES FINANCIADAS A 12 MESES ($260.000.000 COP),,,,,,,,,,,,,,,
+"Cronograma Financiero Mensual (Junio 2027 – Mayo 2028), Remuneración a Comunidades Locales y Monitoreo Científico Auditado",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+FLUJO DE DESEMBOLSOS Y EJECUCIÓN MENSUAL A 12 MESES (JUNIO 2027 – MAYO 2028),,,,,,,,,,,,,,,
+Componente / Ecosistema,Meta Física,Aliado Técnico / Territorial,Total 12 Meses (COP),M1 Jun27,M2 Jul27,M3 Ago27,M4 Sep27,M5 Oct27,M6 Nov27,M7 Dic27,M8 Ene28,M9 Feb28,M10 Mar28,M11 Abr28,M12 May28
+1.1 Granja Coralina: Guarderías Reef Stars y Módulos 3D,2.500 fragmentos,Varadero / Islas del Rosario y San Andrés,=SUM(E6:P6),38000000,12000000,6500000,6500000,6500000,6500000,6500000,6500000,6500000,6500000,6500000,6500000
+1.2 Estipendios Buzos Locales y Fotogrametría 3D Coral,12 campañas,Pescadores y Buzos Certificados Caribe,=SUM(E7:P7),4000000,2200000,2200000,2200000,2200000,2200000,2200000,2200000,2200000,2200000,2200000,2200000
+SUBTOTAL GRANJAS DE CORALES (12 MESES),2.500 corales,100% Auditado a 1 Año,=SUM(E8:P8),=SUM(E6:E7),=SUM(F6:F7),=SUM(G6:G7),=SUM(H6:H7),=SUM(I6:I7),=SUM(J6:J7),=SUM(K6:K7),=SUM(L6:L7),=SUM(M6:M7),=SUM(N6:N7),=SUM(O6:O7),=SUM(P6:P7)
+2.1 Granja Manglar: Viveros Comunitarios y Canales,15.000 plántulas,Ciénaga de la Virgen (CTG) y Tumaco,=SUM(E9:P9),30000000,14000000,5000000,5000000,5000000,5000000,5000000,5000000,5000000,5000000,5000000,5000000
+2.2 Monitoreo Supervivencia y Carbono Azul (~180 tCO2e/año),12 reportes,Asociaciones Mujeres y Pescadores,=SUM(E10:P10),2500000,1500000,1500000,1500000,1500000,1500000,1500000,1500000,1500000,1500000,1500000,1500000
+SUBTOTAL GRANJAS DE MANGLARES (12 MESES),15.000 mangles,100% Auditado a 1 Año,=SUM(E11:P11),=SUM(E9:E10),=SUM(F9:F10),=SUM(G9:G10),=SUM(H9:H10),=SUM(I9:I10),=SUM(J9:J10),=SUM(K9:K10),=SUM(L9:L10),=SUM(M9:M10),=SUM(N9:N10),=SUM(O9:O10),=SUM(P9:P10)
+TOTAL INVERSIÓN RESTAURACIÓN MARINA A 12 MESES,2.500 Corales + 15.000 Mangles,Caribe y Pacífico Colombiano,=D8+D11,=E8+E11,=F8+F11,=G8+G11,=H8+H11,=I8+I11,=J8+J11,=K8+K11,=L8+L11,=M8+M11,=N8+N11,=O8+O11,=P8+P11
