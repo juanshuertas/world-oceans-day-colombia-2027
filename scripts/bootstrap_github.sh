@@ -92,23 +92,8 @@ create_issue() {
     --body "$body" \
     --label "$labels" \
     --milestone "$milestone" \
-    --json number --jq .number 2>/dev/null || true)"
-
-  if [[ -z "$number" ]]; then
-    number="$(gh issue create \
-      --repo "${OWNER}/${REPO}" \
-      --title "$title" \
-      --body "$body" \
-      --label "$labels" \
-      --milestone "$milestone")"
-    number="${number##*/}"
-  fi
-
-  if [[ "$number" =~ ^[0-9]+$ ]]; then
-    if ! gh issue edit "$number" --repo "${OWNER}/${REPO}" --add-assignee "$assignee" >/dev/null 2>&1; then
-      echo "Aviso: no se pudo asignar @$assignee; queda registrado en el cuerpo del issue."
-    fi
-  fi
+    --assignee "$assignee")"
+  number="${number##*/}"
 }
 
 create_issue \
