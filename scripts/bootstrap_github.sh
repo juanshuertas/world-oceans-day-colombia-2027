@@ -127,7 +127,7 @@ Formalizar MOUs con UMNG, Universidad de los Andes, ENAP, ESDEG, UJTL y Uninorte
 - MOU bilateral firmado por cada institución.
 - Auditorios UMNG bloqueados el 8 de junio.
 - Auditorios Uniandes Cartagena bloqueados el 10 de junio.
-- Matriz de aportes en especie conciliada por $74.500.000 COP.
+- Matriz de aportes en especie conciliada por \$74.500.000 COP.
 - Vigencia, seguros, propiedad intelectual y responsables definidos."
 
 create_issue \
@@ -151,7 +151,7 @@ create_issue \
   "frente:grants-finanzas,prioridad:critica" \
   "finanzas-grants" \
   "## Objetivo
-Redactar y someter postulaciones de arranque rápido a Waitt Foundation (ROC Grant, $20K USD), Rufford Small Grants ($15K USD) y PPD-GEF PNUD Colombia ($50K USD).
+Redactar y someter postulaciones de arranque rápido a Waitt Foundation (ROC Grant, \$20K USD), Rufford Small Grants (\$15K USD) y PPD-GEF PNUD Colombia (\$50K USD).
 
 ## Criterios de aceptación
 - Convocatoria y elegibilidad verificadas por cada programa.
@@ -227,7 +227,7 @@ Cerrar convenio operativo con 4Ocean Foundation y contratar operadores locales p
 - Convenio 4Ocean firmado.
 - Limpieza del 12 de junio calendarizada en 6 nodos y 2 inmersiones.
 - Operadores locales contratados y seguros vigentes.
-- Presupuesto de $260.000.000 COP desglosado y cronograma M1–M12 aprobado."
+- Presupuesto de \$260.000.000 COP desglosado y cronograma M1–M12 aprobado."
 
 create_issue \
   "[Ecosistema Circular 3D] Adquirir y ensamblar maquinaria" \
@@ -292,7 +292,7 @@ create_issue \
   "frente:blue-standard,frente:fondo-ecop,prioridad:alta" \
   "maua-uniandes" \
   "## Objetivo
-Completar la auditoría 3 Estrellas de Oceanic Global en todas las sedes y abrir la convocatoria de las 20 becas y micro-grants ECOP por $280.000.000 COP.
+Completar la auditoría 3 Estrellas de Oceanic Global en todas las sedes y abrir la convocatoria de las 20 becas y micro-grants ECOP por \$280.000.000 COP.
 
 ## Criterios de aceptación
 - Checklist 3 Estrellas cerrado por sede.
