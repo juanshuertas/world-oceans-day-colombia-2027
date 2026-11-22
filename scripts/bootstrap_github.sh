@@ -91,8 +91,7 @@ create_issue() {
     --title "$title" \
     --body "$body" \
     --label "$labels" \
-    --milestone "$milestone" \
-    --assignee "$assignee")"
+    --milestone "$milestone")"
   number="${number##*/}"
 }
 
