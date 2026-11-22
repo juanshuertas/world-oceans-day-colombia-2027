@@ -17,7 +17,8 @@ while IFS= read -r issue; do
   case "$title" in
     *Gobernanza*|*presidencia*) agent="gobernanza-estado" ;;
     *Universitaria*|*Alianza*|*MAUA*) agent="maua-juvenil" ;;
-    *Capital\ Semilla*|*4Ocean*|*Restauración*) agent="grants-finanzas" ;;
+    *Capital\ Semilla*) agent="grants-finanzas" ;;
+    *4Ocean*|*Restauración*) agent="restauracion-4ocean" ;;
     *Ciencia\ Antártica*|*Comité\ Científico*|*IA\ y\ Agencias*) agent="ciencia-scar" ;;
     *Visita\ Técnica*) agent="naval-galeon" ;;
     *Ecosistema\ Circular*) agent="economia-circular-3d" ;;
