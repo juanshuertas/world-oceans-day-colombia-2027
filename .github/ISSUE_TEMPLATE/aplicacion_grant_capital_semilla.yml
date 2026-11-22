@@ -1,0 +1,49 @@
+name: Grant PAC o capital semilla
+description: Registrar una postulación de grant antártico/PAC o capital semilla.
+title: "[Grant] "
+labels:
+  - frente:grants-finanzas
+  - prioridad:alta
+assignees:
+  - finanzas-grants
+body:
+  - type: input
+    id: programa
+    attributes:
+      label: Programa financiador
+      placeholder: Waitt Foundation / Rufford / PPD-GEF / NG-LEX
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoría
+      options:
+        - Capital semilla
+        - Grant antártico/PAC
+        - Fondo ECOP
+    validations:
+      required: true
+  - type: input
+    id: monto
+    attributes:
+      label: Monto solicitado
+      placeholder: "USD 20.000"
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Resumen de propuesta
+      description: Problema, teoría de cambio, presupuesto y resultados.
+    validations:
+      required: true
+  - type: textarea
+    id: aceptacion
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - Convocatoria y elegibilidad verificadas.
+        - Presupuesto y contrapartidas conciliados.
+        - Concepto técnico aprobado.
+        - Radicación con acuse y fecha registrada.

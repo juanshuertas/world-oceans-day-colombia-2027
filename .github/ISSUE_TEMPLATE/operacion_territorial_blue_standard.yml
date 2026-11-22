@@ -1,0 +1,62 @@
+name: Operación territorial — Blue Standard
+description: Ejecutar y auditar una operación territorial conforme a Blue Standard 3 Estrellas.
+title: "[Operación] "
+labels:
+  - frente:blue-standard
+  - prioridad:alta
+assignees:
+  - operaciones-ambientales
+body:
+  - type: dropdown
+    id: nodo
+    attributes:
+      label: Nodo
+      options:
+        - Bogotá
+        - Cartagena
+        - Barranquilla
+        - Santa Marta
+        - San Andrés
+        - Buenaventura
+        - Tumaco
+        - Carrera / sede intermedia
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de operación
+      options:
+        - Limpieza 4Ocean
+        - Restauración coral/mangle
+        - Laboratorio 3D
+        - Visita científica/naval
+        - Polo / concierto
+        - Arte y moda
+        - Auditoría Blue Standard
+    validations:
+      required: true
+  - type: textarea
+    id: seguridad
+    attributes:
+      label: Plan de seguridad y permisos
+      description: Permisos, seguros, rutas de respuesta, clima y responsables.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidencia requerida
+      description: Fotos, pesajes, georreferencia, asistencia, residuos y certificados.
+    validations:
+      required: true
+  - type: textarea
+    id: aceptacion
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - Permisos y seguros vigentes.
+        - Personal y voluntariado capacitados.
+        - Evidencia trazable cargada.
+        - Residuos gestionados y pesaje conciliado.
+        - Hallazgos cerrados o plan correctivo creado.

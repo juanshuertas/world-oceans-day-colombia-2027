@@ -1,0 +1,56 @@
+name: Patrocinio corporativo
+description: Gestionar una alianza de patrocinio o aportes corporativos.
+title: "[Patrocinio] "
+labels:
+  - frente:patrocinios-pr
+  - prioridad:alta
+assignees:
+  - patrocinios-pr
+body:
+  - type: input
+    id: marca
+    attributes:
+      label: Marca o aliado
+      placeholder: BBVA / BMW / Tesla / LATAM / Corona / National Geographic
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoría
+      options:
+        - Banca azul
+        - Movilidad cero emisiones
+        - Energía
+        - Transporte aéreo
+        - Marca e isla
+        - Ciencia y medios
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Contraprestación y alcance
+      description: Aportes efectivos, en especie, derechos de marca y activaciones.
+    validations:
+      required: true
+  - type: textarea
+    id: integridad
+    attributes:
+      label: Integridad comercial y editorial
+      value: |
+        - Conflicto de interés declarado.
+        - No se compromete opinión científica editorial.
+        - Derechos de uso, exclusividad y terminación definidos.
+        - Impacto ambiental y trazabilidad documentados.
+    validations:
+      required: true
+  - type: textarea
+    id: aceptacion
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - Carta de interés o contrato firmado.
+        - Contraprestaciones aprobadas.
+        - Flujo de caja o aportes en especie registrados.
+        - Vocero y plan editorial asignados.

@@ -1,0 +1,19 @@
+# CODEOWNERS — World Oceans Day & Month Colombia 2027
+
+* Los propietarios deben ser reemplazados por usuarios/teams reales antes de habilitar revisión obligatoria.
+
+/README.md @coordinacion-general
+/GOVERNANCE.md @coordinacion-general
+/CODEOWNERS @coordinacion-general
+
+/00-estado-y-diplomacia/ @coordinacion-general
+/01-universidades-y-maua/ @coordinacion-general @maua-uniandes
+/02-ciencia-scar-y-visita-naval/ @comite-cientifico @enlace-naval-estado
+/03-4ocean-granjas-12m-y-3d/ @operaciones-ambientales @maua-uniandes
+/04-cartagena-polo-concierto-y-arte/ @produccion-cartagena
+/05-blue-standard-oceanic-global/ @coordinacion-general @operaciones-ambientales
+/06-patrocinios-y-free-press/ @patrocinios-pr
+/07-finanzas-grants-y-fondo-ecop/ @finanzas-grants @maua-uniandes
+
+/.github/ @coordinacion-general
+/scripts/ @coordinacion-general @finanzas-grants

@@ -1,0 +1,59 @@
+name: Alianza institucional — MOU
+description: Formalizar un MOU con universidades, Estado o instituciones navales.
+title: "[MOU] "
+labels:
+  - frente:universidades-maua
+  - prioridad:alta
+assignees:
+  - coordinacion-general
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Complete los datos de la institución y adjunte la trazabilidad de la alianza.
+  - type: input
+    id: institucion
+    attributes:
+      label: Institución
+      description: Nombre completo y entidad.
+      placeholder: Universidad / Ministerio / Armada
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de alianza
+      options:
+        - Universitaria
+        - Estado
+        - Naval
+        - Científica
+        - Sede territorial
+    validations:
+      required: true
+  - type: textarea
+    id: aportes
+    attributes:
+      label: Aportes en especie
+      description: Bienes o servicios, valor COP, vigencia y soporte.
+      placeholder: "Auditorio, tecnología, enlace técnico; $..."
+    validations:
+      required: true
+  - type: textarea
+    id: responsable
+    attributes:
+      label: Responsable y fecha objetivo
+      placeholder: Cargo, persona, correo y fecha.
+    validations:
+      required: true
+  - type: textarea
+    id: aceptacion
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - MOU firmado por ambas partes.
+        - Anexo de aportes conciliado.
+        - Responsable operativo confirmado.
+        - Evidencia documental adjunta.
+    validations:
+      required: true
