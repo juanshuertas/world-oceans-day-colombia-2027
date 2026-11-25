@@ -4,6 +4,8 @@
 **Coordinación general:** Juan Sebastián Huertas Olea · Origen de Paz E.U.  
 **Coordinación juvenil:** MAUA — La Mesa Ambiental Uniandina
 
+**Observatorio científico asociado:** [OLEA — Antarctic Maritime Observation Hub](https://juanshuertas.github.io/antarctic-maritime-observation-hub/olea/) · [Repositorio del programa](https://github.com/juanshuertas/world-oceans-day-colombia-2027)
+
 ## Ficha ejecutiva
 
 World Oceans Day & Month Colombia 2027 posicionará al país como una **Potencia Oceánica Emergente** mediante una arquitectura dual inspirada en COP16: una **Zona Azul** científica y diplomática y una **Zona Verde** ciudadana y cultural, articulada con el modelo de Medellín Climate Week.
@@ -67,6 +69,16 @@ El cierre reúne:
 
 La gobernanza combina coordinación ejecutiva, consejos técnico y científico, comité financiero, enlace institucional, responsable operativo por nodo y auditoría Blue Standard. El detalle de roles, veto, escalamiento y RACI está en [GOVERNANCE.md](GOVERNANCE.md). Los propietarios documentales y técnicos están definidos en [CODEOWNERS](CODEOWNERS).
 
+## Integración con OLEA
+
+OLEA es el observatorio científico y geoespacial asociado para explorar el contexto antártico, marítimo y satelital del programa. La información de gobernanza, presupuesto, acuerdos y ejecución del evento se mantiene en este repositorio; OLEA no se considera un sistema de registro financiero ni una fuente de compromisos institucionales.
+
+- [Abrir OLEA](https://juanshuertas.github.io/antarctic-maritime-observation-hub/olea/)
+- [Ver el repositorio de OLEA](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
+- [Ver el contrato y alcance de integración](08-olea-colombia-2027/README.md)
+
+La integración actual es navegacional y documental. No se afirma que OLEA consuma automáticamente el presupuesto, las sedes o los estados de issues; cualquier conexión de datos futura debe usar una interfaz publicada, datos con procedencia y permisos de redistribución, y revisión antes de mostrar resultados como oficiales.
+
 ## Finanzas y legado
 
 - Presupuesto integral equilibrado: **$1.656.000.000 COP** (aprox. **$394.286 USD**).
@@ -119,6 +131,7 @@ Aliados corporativos previstos:
 - [05-blue-standard-oceanic-global](05-blue-standard-oceanic-global/README.md)
 - [06-patrocinios-y-free-press](06-patrocinios-y-free-press/README.md)
 - [07-finanzas-grants-y-fondo-ecop](07-finanzas-grants-y-fondo-ecop/README.md)
+- [08-olea-colombia-2027](08-olea-colombia-2027/README.md)
 
 ## Convenciones
 
